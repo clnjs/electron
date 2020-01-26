@@ -1,3 +1,9 @@
+[electron installation](#electron_installation)  
+[Displaying a Window](#Displaying_a_Window) 
+[Managing Windows](#Managing_Windows) 
+
+
+<a name="electron_installation"/>
 # electron installation(for linux )(001)
 
 
@@ -26,6 +32,8 @@
  for disable GL ERROR and use CPU
  `--disable-gpu `
  
+ 
+<a name="Displaying_a_Window"/>
  # Displaying a Window(003)
 
 to open window we just need to use following code  
@@ -45,6 +53,7 @@ following line we need to set the location(in Acute) of html document.
    win.loadURL(`file://${__dirname}/index.html`);
  ```
  
+ <a name="Managing_Windows"/>
  #  Managing Windows(004)
 
 to show new window we have to create new html file and its need to connect with main(app.js) file
