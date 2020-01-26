@@ -33,8 +33,8 @@
  `--disable-gpu `
  
  
-<a name="Displaying_a_Window"/>   
- # Displaying a Window(003)
+<a name="Displaying_a_Window"/>       
+# Displaying a Window(003)
 
 to open window we just need to use following code  
 
@@ -54,7 +54,7 @@ following line we need to set the location(in Acute) of html document.
  ```
  
  <a name="Managing_Windows"/>   
- #  Managing Windows(004)
+#  Managing Windows(004)
 
 to show new window we have to create new html file and its need to connect with main(app.js) file
 
